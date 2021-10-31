@@ -1,0 +1,8 @@
+Create IOT HUB > Create device > Message Routing, Custom endpoint > Message Routing, Routes (Device Telemetry Messages)
+
+https://cprosenjit.medium.com/device-to-cloud-connectivity-with-azure-iot-hub-c48c89cc797f
+
+https://github.com/Azure/azure-iot-sdk-python/tree/master/azure-iot-device/samples
+
+https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-d2c
+
