@@ -3,7 +3,7 @@ import datetime
 import time
 from azure.iot.device import IoTHubDeviceClient, Message
 
-CONNECTION_STRING = "HostName=IOthubnametest.azure-devices.net;DeviceId=testedevice;SharedAccessKey=YEEoSXDGu3QFZ1XegDZudxNODBRD4A6e0NuW+M7tUek="
+CONNECTION_STRING = "HostName=;DeviceId=;SharedAccessKey="
 # Define the JSON message to send to IoT Hub.
 MSG_TXT = '{{"timestamp":"{timestamp}","user":"{user}","cpu_percent":{cpu_percent},"total_mem":{total_mem},"available_mem":{available_mem}}}'
 
